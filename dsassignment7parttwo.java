@@ -1,8 +1,5 @@
 // Name: Chidera Anamege
-// Class: CS 3305
-// Term: Spring 2024
-//	Instructor:  Carla McManus
-//	Assignment:  7-Part-2-Heaps
+
 import java.util.*;
 
 public class dsassignment7parttwo {
